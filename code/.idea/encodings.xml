@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding">
+    <file url="file://$PROJECT_DIR$/README.md" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/filePretreatment/FileGetPath.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/filePretreatment/FileNewName.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/mainAlgorithm/ColorHSICenterMoment.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/mainAlgorithm/EdgeDetector.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/mainAlgorithm/EdgeHistogram.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/mainAlgorithm/GLCM.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/mainAlgorithm/Gray.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/mainAlgorithm/HistogramEqualization.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/mainAlgorithm/HistogramIntersecting.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/mainAlgorithm/HuMoment.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/mainAlgorithm/MedianFilter.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/mainAlgorithm/SobelAndBinarization.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/match/DataBaseAndFileOperating.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/match/FeatureMeasure.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/match/HSICenterMomentMatch.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/match/HistogramIntersectingMathch.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/match/ShapeEdgeMathch.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/match/ShapeMatch.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/match/TextureMatch.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/ui/CameraTest.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/ui/FirstCapture.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/ui/FrameShow.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/ui/InfiniteProgressPanel.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/ui/MainFrame.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/ui/UseFrame.java" charset="GBK" />
+  </component>
+</project>
